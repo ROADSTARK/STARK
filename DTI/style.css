@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: initial;
+}
+
+.alpha{
+    margin-top: 60px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    padding: 100px;
+}
+
+.one{
+    padding: 15px;
+    border: 1px solid white;
+    height: 150px;
+    max-width: 200px;
+    width: 50%;
+    border-radius: 20px;
+    margin: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.one:hover{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
